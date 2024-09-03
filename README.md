@@ -6,7 +6,7 @@ This guide provides a comprehensive setup for building a React application with 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git my-react-app
+   git clone https://github.com/RusinAndrey1607/webpack-build.git my-react-app
    cd my-react-app
    ```
 
